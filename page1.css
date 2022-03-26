@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #273911;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #d8e8e6;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding: 20px 20px;
+    margin-top: 20px;
+}
+
+p {
+    font-family: 'Fredoka', sans-serif;
+    font-size: large;
+    color: #ed9436;
+    font-weight: bolder;
+    text-align: justify;
+    overflow: hidden;
+    padding: 5px;
+}
+
+a {
+    background-color: darkgreen;
+    padding: 10px 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: antiquewhite;
+    display: inline-block;
+    margin-top: 35px;
+    border-radius: 5px;
+}
+
+.card {
+    width: 500px;
+    height: 250px;
+    display: inline-block;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 35px;
+    padding: 15px 25px;
+    box-sizing: border-box;
+    background-position: center;
+    background-size: cover;
+}
+
+.card img {
+    height: 250px;
+    width: 250px;
+    padding: 5px;
+    border-radius: 20%;
+}
+
+span {
+    font-family: 'Fredoka', sans-serif;
+    font-size: large;
+    font-weight: bolder;
+    color: #2d80a0;
+}

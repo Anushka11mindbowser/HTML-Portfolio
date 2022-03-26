@@ -1,0 +1,112 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    background-color: #28464B
+}
+
+h1 {
+    margin-top: 5px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: #BFB1C1;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #ffd046;
+    font-size: x-large;
+    font-weight: bold;
+    padding: 15px;
+    margin: 5px;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #01a881;
+    font-size: x-large;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 25px;
+}
+
+.tech {
+    width: 80vw;
+    height: 15vw;
+    margin: auto;
+    display: flex;
+    padding: 2px;
+}
+
+.techl {
+    width: 300px;
+    height: 300px;
+    display: flex;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    margin: 2px;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: darkblue;
+}
+
+.isol {
+    width: 80vw;
+    height: 15vw;
+    margin: auto;
+    display: flex;
+}
+
+.sol {
+    width: 300px;
+    height: 300px;
+    display: flex;
+}
+
+a {
+    background-color: darkgreen;
+    padding: 10px 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: antiquewhite;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.card {
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 9px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    background-position: center;
+    background-size: contain;
+    background-color: #326771;
+}
+
+a {
+    background-color: darkgreen;
+    padding: 10px 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: antiquewhite;
+    display: inline-block;
+    margin-top: 35px;
+    border-radius: 5px;
+}
